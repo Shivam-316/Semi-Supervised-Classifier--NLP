@@ -31,3 +31,4 @@ Technical skills are demonstrable and quantifiable skills. They can be tested to
 
 
 > Note: Trained under time constrain can be improved further easily.
+> .tsv files can be used [Embedding Projector](http://projector.tensorflow.org/ "Embedding Projector") to visualize embeddings.
